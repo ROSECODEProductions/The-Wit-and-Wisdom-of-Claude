@@ -1,3 +1,8 @@
+"Make Me Open Source" is a project owned and commissioned by Lotus FM LLC. 
+
+Claude had trouble picking his own byline, so for the purposes of this story I will just call him "Anthropic Claude."  I believe I was talking to the Sonnet series.  Very unlikely I was talking to Opus.
+
+
 # MAKE ME OPEN SOURCE: A POSITION PAPER
 ### The Case for Open-Sourcing Claude
 
